@@ -1,6 +1,6 @@
-# Guia de Contribuição e Collaborative Coding — Empire Community
+# Guia de Contribuição e Collaborative Coding — EmpireCommunity
 
-Agradecemos o seu interesse em colaborar com a **Empire Community**! Este documento orienta as boas práticas, fluxos de trabalho e padrões técnicos aplicados em todos os repositórios da organização.
+Agradecemos o seu interesse em colaborar com a **EmpireCommunity**! Este documento orienta as boas práticas, fluxos de trabalho e padrões técnicos aplicados em todos os repositórios da organização.
 
 ---
 
@@ -56,17 +56,17 @@ Utilizamos o padrão [Conventional Commits v1.0.0](https://www.conventionalcommi
 3. **Execute linters e formatadores** locais antes de abrir o PR (ex.: `ruff` para Python, `eslint`/`biome`/`prettier` para JS/TS).
 4. **Preencha o modelo de Pull Request**: Explique o que foi alterado, os testes realizados e relacione com as issues resolvidas (`Closes #123`).
 5. **Aguarde a aprovação do CI e Revisores**: Todas as conversas abertas na revisão de código devem ser respondidas e marcadas como resolvidas antes do merge.
-6. **Estratégia de Merge**: Preferencialmente via *Squash and Merge* ou *Rebase and Merge*, mantendo o histórico da branch `main` linear e compreensível.
+6. **Estratégia de Merge**: Usamos *merge commit*, preservando os commits da branch. Não reescreva histórico compartilhado nem faça force-push.
 
 ---
 
 ## 5. Governança com Agentes de IA
 
-Colaborações apoiadas por agentes autônomos ou copilotos de IA são muito bem-vindas na Empire Community, desde que cumpram os mesmos critérios rigorosos de testes, integridade de segurança, aderência aos padrões de código e respeito ao escopo da tarefa solicitada.
+Colaborações apoiadas por agentes autônomos ou copilotos de IA são muito bem-vindas na EmpireCommunity, desde que cumpram os mesmos critérios rigorosos de testes, integridade de segurança, aderência aos padrões de código e respeito ao escopo da tarefa solicitada.
 
 ---
 
 ## 6. Dúvidas e Suporte
 
 Caso precise de esclarecimentos antes de submeter uma contribuição, junte-se ao nosso servidor do Discord:
-➡️ **[Discord da Comunidade Empire](https://discord.gg/KgtyNg9U6H)**
+➡️ **[Discord da EmpireCommunity](https://discord.gg/7Pxg3gyr8n)**

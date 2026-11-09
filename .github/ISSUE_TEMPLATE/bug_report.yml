@@ -1,5 +1,5 @@
 name: 🐛 Relato de Bug / Defeito
-description: Relate um erro, exceção ou comportamento inesperado em um projeto da Empire Community
+description: Relate um erro, exceção ou comportamento inesperado em um projeto da EmpireCommunity
 title: "fix: "
 labels: ["bug", "triage"]
 body:

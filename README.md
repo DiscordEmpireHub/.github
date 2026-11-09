@@ -1,6 +1,6 @@
-# .github — Configurações Globais da Empire Community
+# .github — Configurações Globais da EmpireCommunity
 
-Este repositório contém as configurações e padrões globais de governança, saúde de comunidade e automação para todos os repositórios da **Empire Community**.
+Este repositório contém as configurações e padrões globais de governança, saúde de comunidade e automação para todos os repositórios da **EmpireCommunity**.
 
 ## 📁 Estrutura deste Repositório
 
@@ -12,8 +12,9 @@ Este repositório contém as configurações e padrões globais de governança, 
 - **`SUPPORT.md`**: Guia de suporte ao usuário e canais oficiais.
 - **`.github/pull_request_template.md`**: Modelo padrão de Pull Request herdado automaticamente por qualquer repositório da organização que não tenha template próprio.
 - **`.github/ISSUE_TEMPLATE/`**: Formulários estruturados de abertura de issues (Bugs com logs e gravidade, Features, Documentação, RFCs e Chooser).
-- **`.github/DISCUSSION_TEMPLATE/`**: Modelos de discussões para o fórum (Ideias, Q&A, Show and Tell e RFCs).
-- **`.github/workflows/`**: Workflows de CI/CD e automação de colaboração (Lint de PRs, Dependabot).
+- **`.github/DISCUSSION_TEMPLATE/`**: Formulários das categorias de discussão (Ideas, Q&A e Show and tell).
+- **`.github/workflows/`**: Automação de colaboração (lint do título de PRs).
+- **`.github/dependabot.yml`**: Atualização semanal das GitHub Actions deste repositório.
 
 ## 🚀 Como Funciona
 

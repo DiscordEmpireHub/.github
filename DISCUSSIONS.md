@@ -1,6 +1,6 @@
-# Guia de Comunicação e Discussões — Empire Community
+# Guia de Comunicação e Discussões — EmpireCommunity
 
-Para manter o fluxo de desenvolvimento ágil, produtivo e organizado, a **Empire Community** adota três canais complementares com finalidades bem definidas:
+Para manter o fluxo de desenvolvimento ágil, produtivo e organizado, a **EmpireCommunity** adota três canais complementares com finalidades bem definidas:
 
 ---
 
@@ -26,7 +26,7 @@ Para manter o fluxo de desenvolvimento ágil, produtivo e organizado, a **Empire
 ---
 
 ## 1. 💬 Discord (Tempo Real & Comunidade Viva)
-* **Link:** [discord.gg/KgtyNg9U6H](https://discord.gg/KgtyNg9U6H)
+* **Link:** [discord.gg/7Pxg3gyr8n](https://discord.gg/7Pxg3gyr8n)
 * **Finalidade:** Comunicação síncrona, atendimento rápido a usuários, anúncios de eventos, calls e suporte em tempo real para comandos do EmpireMuse ou servidores de jogos.
 * **Quando usar:**
   - Conversar com outros membros da comunidade.
@@ -36,14 +36,14 @@ Para manter o fluxo de desenvolvimento ágil, produtivo e organizado, a **Empire
 ---
 
 ## 2. 💡 GitHub Discussions (Fórum Aberto & Q&A Indexável)
-* **Link:** [github.com/orgs/EmpireCommunity/discussions](https://github.com/orgs/EmpireCommunity/discussions)
+* **Link:** [github.com/EmpireCommunity/.github/discussions](https://github.com/EmpireCommunity/.github/discussions)
 * **Finalidade:** Comunicação assíncrona, debates estruturados e base de conhecimento permanente indexada por motores de busca.
 * **Categorias Oficiais:**
-  - **💡 Ideas**: Propostas conceituais para novos bots, mecânicas de jogos no EmpireHub, novas features para o site.
+  - **💡 Ideas**: Propostas conceituais para novos bots, mecânicas de jogos no EmpireHub, novas features para o site e debates de arquitetura antes de virarem uma RFC.
   - **❓ Q&A**: Dúvidas técnicas sobre como usar APIs, SDKs da Engine ou configuração de ambiente. Respostas podem ser marcadas como "Solução".
-  - **🎉 Show and Tell**: Apresentação de jogos criados com o SDK, servidores usando EmpireMuse, customizações e integrações.
-  - **📋 RFCs**: Debates abertos sobre evolução de arquitetura antes de virarem tarefas fechadas.
+  - **🎉 Show and tell**: Apresentação de jogos criados com o SDK, servidores usando EmpireMuse, customizações e integrações.
   - **📢 Announcements**: Atualizações de versão e novidades oficiais divulgadas pelos mantenedores.
+  - **💬 General** e **📊 Polls**: Conversas gerais e enquetes.
 
 ---
 
@@ -53,7 +53,7 @@ Para manter o fluxo de desenvolvimento ágil, produtivo e organizado, a **Empire
   - `🐛 Bug Report`: Falhas, exceções no terminal (`ERR-XXXXXX`), erros de execução com passos de reprodução.
   - `💡 Feature Request`: Funcionalidade já debatida e aprovada que precisa ser implementada.
   - `📝 Documentation`: Atualizações em documentações, guias ou referências de código.
-  - `📐 RFC Issue`: Issue para acompanhar o ciclo de desenvolvimento de uma especificação técnica aprovada.
+  - `📐 RFC Issue`: Proposta formal de mudança de arquitetura ou especificação técnica, e o acompanhamento do seu desenvolvimento.
 
 ---
 

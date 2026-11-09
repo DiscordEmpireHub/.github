@@ -1,6 +1,6 @@
-# Política de Segurança — Empire Community
+# Política de Segurança — EmpireCommunity
 
-A segurança de nossos projetos, dados de usuários e integridade dos servidores é prioridade máxima em todos os repositórios da **Empire Community**.
+A segurança de nossos projetos, dados de usuários e integridade dos servidores é prioridade máxima em todos os repositórios da **EmpireCommunity**.
 
 ## Versões com Suporte de Segurança
 
@@ -9,8 +9,6 @@ Como regra geral, apenas as versões mais recentes das branches principais (`mai
 | Repositório | Versão / Ramo com Suporte |
 | :--- | :--- |
 | **EmpireMuse** | `main` / Último release |
-| **EmpireSite** | `main` / Produção |
-| **EmpireGames** / **EmpireEngine** | `main` |
 | Demais repositórios públicos | `main` |
 
 ---
@@ -23,7 +21,7 @@ Para reportar uma falha de segurança de forma responsável e confidencial:
 
 1. **GitHub Private Vulnerability Reporting**: Nos repositórios onde o recurso estiver ativo, acesse a aba **Security** > **Report a vulnerability**.
 2. **Contato Direto via E-mail**:
-   - Envie os detalhes técnicos para: **contact@empirehub.com.br**
+   - Envie os detalhes técnicos para: **contact@empirecommunity.org**
    - Assunto: `[VULNERABILIDADE] Nome do Repositório - Breve resumo`
 
 ### Informações Recomendadas no Relatório:

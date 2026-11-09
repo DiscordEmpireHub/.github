@@ -1,0 +1,29 @@
+body:
+  - type: textarea
+    id: duvida
+    attributes:
+      label: "Qual é a sua dúvida?"
+      description: "O que você está tentando alcançar e onde surgiu a dúvida?"
+    validations:
+      required: true
+  - type: textarea
+    id: tentativas
+    attributes:
+      label: "O que você já tentou?"
+      description: "Guias consultados, parâmetros ou configurações testadas."
+    validations:
+      required: false
+  - type: textarea
+    id: projeto
+    attributes:
+      label: "Repositório ou módulo envolvido"
+      description: "Ex.: EmpireMuse, EmpireHubEngine, EmpireCraft."
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Logs ou código relevante"
+      description: "Cole trechos curtos e remova senhas e tokens."
+    validations:
+      required: false

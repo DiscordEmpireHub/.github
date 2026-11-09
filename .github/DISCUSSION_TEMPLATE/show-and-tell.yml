@@ -1,0 +1,29 @@
+body:
+  - type: textarea
+    id: projeto
+    attributes:
+      label: "O que você construiu ou configurou?"
+      description: "Apresente seu projeto, bot, jogo, mod ou integração."
+    validations:
+      required: true
+  - type: textarea
+    id: demo
+    attributes:
+      label: "Demonstração"
+      description: "Capturas de tela, GIFs ou gravações mostrando o recurso em ação."
+    validations:
+      required: false
+  - type: textarea
+    id: tecnologias
+    attributes:
+      label: "Tecnologias e dependências"
+      description: "Ex.: Python, disnake, Phaser, Lavalink, Astro, Java."
+    validations:
+      required: false
+  - type: textarea
+    id: links
+    attributes:
+      label: "Links e repositórios"
+      description: "Link do repositório ou site, caso seja público."
+    validations:
+      required: false
