@@ -8,7 +8,7 @@ Se você precisa de ajuda com qualquer projeto ou ferramenta desenvolvida pela *
 
 ### 1. Comunidade Discord (Mais Rápido)
 Para suporte em tempo real com bots (como o **EmpireMuse**), dúvidas sobre comandos, sugestões de recursos ou interação com outros membros e desenvolvedores:
-➡️ **[Entrar no Discord da EmpireCommunity](https://discord.gg/7Pxg3gyr8n)**
+➡️ **[Entrar no Discord da EmpireCommunity](https://empirecommunity.org/discord)**
 
 No servidor:
 - Utilize os canais de suporte técnico ou fóruns temáticos dedicados a cada projeto.

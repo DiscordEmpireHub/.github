@@ -26,7 +26,7 @@ Para manter o fluxo de desenvolvimento ágil, produtivo e organizado, a **Empire
 ---
 
 ## 1. 💬 Discord (Tempo Real & Comunidade Viva)
-* **Link:** [discord.gg/7Pxg3gyr8n](https://discord.gg/7Pxg3gyr8n)
+* **Link:** [empirecommunity.org/discord](https://empirecommunity.org/discord)
 * **Finalidade:** Comunicação síncrona, atendimento rápido a usuários, anúncios de eventos, calls e suporte em tempo real para comandos do EmpireMuse ou servidores de jogos.
 * **Quando usar:**
   - Conversar com outros membros da comunidade.

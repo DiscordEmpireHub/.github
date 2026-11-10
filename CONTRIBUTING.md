@@ -69,4 +69,4 @@ Colaborações apoiadas por agentes autônomos ou copilotos de IA são muito bem
 ## 6. Dúvidas e Suporte
 
 Caso precise de esclarecimentos antes de submeter uma contribuição, junte-se ao nosso servidor do Discord:
-➡️ **[Discord da EmpireCommunity](https://discord.gg/7Pxg3gyr8n)**
+➡️ **[Discord da EmpireCommunity](https://empirecommunity.org/discord)**

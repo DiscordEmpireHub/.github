@@ -4,7 +4,7 @@
 
 **Comunidade de jogos e tecnologia, desde 2022.**
 
-[![Discord](https://img.shields.io/badge/Discord-Entrar-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7Pxg3gyr8n)
+[![Discord](https://img.shields.io/badge/Discord-Entrar-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://empirecommunity.org/discord)
 
 </div>
 
@@ -59,11 +59,11 @@ Contribuições são bem-vindas, inclusive as feitas com apoio de agentes de IA,
 
 ## Contato
 
-- **Discord:** [entre na comunidade](https://discord.gg/7Pxg3gyr8n)
+- **Discord:** [entre na comunidade](https://empirecommunity.org/discord)
 - **E-mail:** [contact@empirecommunity.org](mailto:contact@empirecommunity.org)
 
 ## In English
 
 EmpireCommunity exists so that no one has to play alone. We bring together people who enjoy games and technology in a friendly environment, and we keep servers running so that anyone can enter the world whenever they want, for free, with the support of voluntary donations.
 
-Most of the community is Brazilian, so day-to-day conversation happens in Portuguese. [Discord](https://discord.gg/7Pxg3gyr8n) is also the channel for contact, support and collaboration in English. Issues and pull requests are welcome in either language: start with the [contributing guide](https://github.com/EmpireCommunity/.github/blob/main/CONTRIBUTING.md), and please report vulnerabilities privately, as the [security policy](https://github.com/EmpireCommunity/.github/blob/main/SECURITY.md) explains.
+Most of the community is Brazilian, so day-to-day conversation happens in Portuguese. [Discord](https://empirecommunity.org/discord) is also the channel for contact, support and collaboration in English. Issues and pull requests are welcome in either language: start with the [contributing guide](https://github.com/EmpireCommunity/.github/blob/main/CONTRIBUTING.md), and please report vulnerabilities privately, as the [security policy](https://github.com/EmpireCommunity/.github/blob/main/SECURITY.md) explains.
