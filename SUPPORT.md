@@ -1,6 +1,6 @@
-# Suporte e Ajuda — Empire Community
+# Suporte e Ajuda — EmpireCommunity
 
-Se você precisa de ajuda com qualquer projeto ou ferramenta desenvolvida pela **Empire Community**, utilize os canais apropriados abaixo:
+Se você precisa de ajuda com qualquer projeto ou ferramenta desenvolvida pela **EmpireCommunity**, utilize os canais apropriados abaixo:
 
 ---
 
@@ -8,7 +8,7 @@ Se você precisa de ajuda com qualquer projeto ou ferramenta desenvolvida pela *
 
 ### 1. Comunidade Discord (Mais Rápido)
 Para suporte em tempo real com bots (como o **EmpireMuse**), dúvidas sobre comandos, sugestões de recursos ou interação com outros membros e desenvolvedores:
-➡️ **[Entrar no Discord da Empire Community](https://discord.gg/KgtyNg9U6H)**
+➡️ **[Entrar no Discord da EmpireCommunity](https://empirecommunity.org/discord)**
 
 No servidor:
 - Utilize os canais de suporte técnico ou fóruns temáticos dedicados a cada projeto.
@@ -21,4 +21,4 @@ Para relato de erros confirmados (*bugs*), comportamentos inesperados ou propost
 
 ### 3. E-mail Institucional
 Para assuntos administrativos, parcerias, questões de segurança ou contato direto com os mantenedores:
-➡️ **contact@empirehub.com.br**
+➡️ **contact@empirecommunity.org**

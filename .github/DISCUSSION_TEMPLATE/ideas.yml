@@ -1,0 +1,29 @@
+body:
+  - type: textarea
+    id: resumo
+    attributes:
+      label: "Resumo da ideia"
+      description: "Descreva sua ideia em 1 ou 2 parágrafos."
+    validations:
+      required: true
+  - type: textarea
+    id: problema
+    attributes:
+      label: "Qual problema ou caso de uso isso resolve?"
+      description: "Por que essa funcionalidade, jogo ou melhoria seria útil para a comunidade?"
+    validations:
+      required: true
+  - type: textarea
+    id: solucao
+    attributes:
+      label: "Como você imagina essa solução na prática?"
+      description: "Mecânicas, comandos do bot, interface web ou regras esperadas."
+    validations:
+      required: false
+  - type: textarea
+    id: perguntas
+    attributes:
+      label: "Perguntas para discussão"
+      description: "O que você gostaria que outras pessoas comentassem sobre essa proposta?"
+    validations:
+      required: false

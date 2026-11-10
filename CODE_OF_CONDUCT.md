@@ -1,8 +1,8 @@
-# Código de Conduta da Comunidade Empire
+# Código de Conduta da EmpireCommunity
 
 ## Nosso Compromisso
 
-Com o intuito de promover um ambiente aberto e acolhedor, nós, como membros, colaboradores e mantenedores da **Empire Community**, comprometemo-nos a fazer com que a participação em nossos projetos e comunidade seja uma experiência livre de assédio para todos, independentemente de idade, tamanho corporal, deficiência visível ou invisível, etnia, características sexuais, identidade e expressão de gênero, nível de experiência, educação, status socioeconômico, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
+Com o intuito de promover um ambiente aberto e acolhedor, nós, como membros, colaboradores e mantenedores da **EmpireCommunity**, comprometemo-nos a fazer com que a participação em nossos projetos e comunidade seja uma experiência livre de assédio para todos, independentemente de idade, tamanho corporal, deficiência visível ou invisível, etnia, características sexuais, identidade e expressão de gênero, nível de experiência, educação, status socioeconômico, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
 
 Comprometemo-nos a agir e interagir de maneiras que contribuam para uma comunidade aberta, acolhedora, diversa, inclusiva e saudável.
 
@@ -37,6 +37,11 @@ Este Código de Conduta aplica-se a todos os espaços da comunidade, incluindo r
 ## Denúncias e Moderação
 
 Instâncias de comportamento abusivo, intimidador ou de outra forma inaceitável podem ser reportadas diretamente aos mantenedores pelo servidor oficial do Discord ou pelo e-mail:
-**contact@empirehub.com.br**
+**contact@empirecommunity.org**
 
 Todas as queixas serão analisadas e investigadas de forma confidencial, justa e oportuna.
+
+## Atribuição
+
+Este Código de Conduta é adaptado do [Contributor Covenant](https://www.contributor-covenant.org), versão 2.1,
+disponível em <https://www.contributor-covenant.org/version/2/1/code_of_conduct.html>.
